@@ -1,4 +1,4 @@
-# 🔍 WS-SAM: Weakly-Supervised SAM for Object Detection and Segmentation
+# 🔍 WS-SAM: Generalizing SAM to Weakly Supervised Object Detection with Category Label
 
 This repository contains a complete PyTorch implementation of the WS-SAM framework as described in the paper. 
 
